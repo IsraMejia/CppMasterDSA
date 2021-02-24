@@ -26,7 +26,7 @@ int main(){
     }
     
     printf("\n\nAnother way to see that is this 👀 \n");
-    for (int x: A){
+    for (int x: A){ //for int x in A[n]
         cout<< x<< endl;
     }
     
